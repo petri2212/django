@@ -1,0 +1,5 @@
+# Ignora il database SQLite
+db.sqlite3
+
+# Ignora le cartelle __pycache__ in tutto il progetto
+__pycache__/
